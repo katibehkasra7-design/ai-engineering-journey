@@ -1,3 +1,2 @@
-print("My AI engineering journey starts here!")
+print("Hello from Main!")
 print("Hello, AI Engineering!")
-
